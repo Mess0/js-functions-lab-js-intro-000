@@ -1,1 +1,1 @@
-// write your code below!
+const happyHolidays = (greeting) => "Happy holidays!"
