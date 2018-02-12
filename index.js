@@ -1,3 +1,3 @@
 var happyHolidays = () => "Happy holidays!"
 
-var happyHolidayTo = (name) => "Happy holidays, &{name}!"
+var happyHolidaysTo = (name) => "Happy holidays, &{name}!"
