@@ -1,1 +1,1 @@
-const happyHolidays = () => "Happy holidays!"
+var happyHolidays = () => "Happy holidays!"
